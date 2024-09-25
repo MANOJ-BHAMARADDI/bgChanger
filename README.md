@@ -1,3 +1,7 @@
+project is live here 
+
+https://bg-changer-liart.vercel.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
