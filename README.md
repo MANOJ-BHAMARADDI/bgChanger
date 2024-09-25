@@ -1,6 +1,6 @@
-#Project is live here 
+# Project is live here 
 
-https://bg-changer-liart.vercel.app/
+- [BgChanger.com](https://bg-changer-liart.vercel.app/)
 
 # Used React + Vite
 
